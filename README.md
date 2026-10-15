@@ -1,0 +1,2 @@
+# .github
+support zesty life
